@@ -31,27 +31,6 @@ This app leverages Google MachineLearning Kit and the Google Custom Search API. 
 - **Google Custom Search API**
 - **Coroutines**
 - **AndroidX Preferences Library**
--  
-
-### Data Flow
-- Barcode scanned in `MainActivity` → Intent passed to `SearchActivity` → API response parsed and processed → Product details displayed.
-
-## Setup Instructions
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/barcode-scanner-app.git
-   ```
-2. Open the project in Android Studio.
-3. Add your Google Custom Search API key and search engine ID in the appropriate configuration file.
-4. Build and run the app on an Android device.
-
-## Future Enhancements
-- Add support for additional barcode types.
-- Include local database caching for offline use.
-- Implement AI-powered analysis of product information.
-
-## Contributing
-Contributions are welcome! Feel free to fork this repository and submit pull requests with your enhancements or fixes.
 
 ## License
 This project is licensed under the MIT License. See the `LICENSE` file for details.
