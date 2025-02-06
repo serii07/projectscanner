@@ -33,7 +33,7 @@ This app leverages Google MachineLearning Kit and the Google Custom Search API. 
 - **AndroidX Preferences Library**
 
 ## License
-This project is licensed under the MIT License. See the `LICENSE` file for details.
+This project is licensed as Noncommercial. See the `LICENSE` file for details.
 
 ## Acknowledgments
 - [Code scanner library](https://github.com/yuriy-budiyev/code-scanner) for the logic of storing products in the product database
