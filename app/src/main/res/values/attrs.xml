@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ViewfinderView">
+        <!-- Add these two lines -->
+        <attr name="FrameAspectRatioWidth" format="integer"/>
+        <attr name="FrameAspectRatioHeight" format="integer"/>
+        <!-- Keep existing attributes -->
+        <attr name="frameSize" format="float"/>
+        <attr name="maskColor" format="color"/>
+        <attr name="frameColor" format="color"/>
+        <attr name="cornerColor" format="color"/>
+        <attr name="frameThickness" format="dimension"/>
+        <attr name="cornerThickness" format="dimension"/>
+        <attr name="frameCornersSize" format="dimension"/>
+        <attr name="frameCornersRadius" format="dimension"/>
+        <attr name="verticalBias" format="float"/>
+        <attr name="bottomExtension" format="dimension"/>
+    </declare-styleable>
+</resources>

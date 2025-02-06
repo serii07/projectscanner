@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#283845</color>
+    <color name="purple_500">#283845</color>
+    <color name="purple_700">#283845</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="green500">#FFFFFFFF</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="background_color">#E0E1DD</color>
+    <color name="gunmetal">#202C39</color>
+    <color name="wannabe_gunmetal">#283845</color>
+    <color name="cream">#EBEFBF</color>
+    <color name="cream_but_light">#EAF7CF</color>
+    <color name="platinum">#E0E1DD</color>
+    <color name="oxford_blue">#1B263B</color>
+    <color name="richpeople_black">#0D1B2A</color>
+    <color name="light_blue">#415A77</color>
+    <color name="more_light_blue">#778DA9</color> <!-- Corrected to 6 characters -->
+
+</resources>
