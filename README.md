@@ -39,5 +39,3 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 - [Code scanner library](https://github.com/yuriy-budiyev/code-scanner) for the logic of storing products in the product database
 - [Google ML Kit](https://developers.google.com/ml-kit) for barcode scanning capabilities.
 - [Google Custom Search API](https://developers.google.com/custom-search/) for fetching product data.
-- 
-
