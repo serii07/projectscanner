@@ -32,9 +32,6 @@ This app leverages Google MachineLearning Kit and the Google Custom Search API. 
 - **Coroutines**
 - **AndroidX Preferences Library**
 
-## License
-This project is licensed as Noncommercial. See the `LICENSE` file for details.
-
 ## Acknowledgments
 - [Code scanner library](https://github.com/yuriy-budiyev/code-scanner) for the logic of storing products in the product database
 - [Google ML Kit](https://developers.google.com/ml-kit) for barcode scanning capabilities.
