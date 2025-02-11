@@ -1,5 +1,5 @@
 # Barcode Scanner App
-## Made by Hrishikesh and designed by Rishi
+
 ## Overview
 This app leverages Google MachineLearning Kit and the Google Custom Search API. By scanning a barcode, the app fetches the corresponding product name and image.
 
