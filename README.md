@@ -33,6 +33,6 @@ This app leverages Google MachineLearning Kit and the Google Custom Search API. 
 - **AndroidX Preferences Library**
 
 ## Acknowledgments
-- [Code scanner library](https://github.com/yuriy-budiyev/code-scanner) for the logic of storing products in the product database
+- [Code scanner library](https://github.com/yuriy-budiyev/code-scanner) for the backbone logic
 - [Google ML Kit](https://developers.google.com/ml-kit) for barcode scanning capabilities.
 - [Google Custom Search API](https://developers.google.com/custom-search/) for fetching product data.
